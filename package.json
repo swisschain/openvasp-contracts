@@ -31,7 +31,7 @@
     "chai": "^4.2.0",
     "dotenv": "^8.2.0",
     "ganache-cli": "^6.9.0",
-    "mocha": "^7.0.1",
+    "mocha": "^11.7.5",
     "solidity-docgen": "^0.3.14",
     "truffle": "^5.1.12",
     "truffle-plugin-verify": "^0.3.10"
