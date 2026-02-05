@@ -27,7 +27,7 @@
     "@openzeppelin/test-environment": "^0.1.2",
     "@openzeppelin/test-helpers": "^0.5.4",
     "@openzeppelin/upgrades": "^2.6.0",
-    "@truffle/hdwallet-provider": "^1.0.30",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "chai": "^4.2.0",
     "dotenv": "^8.2.0",
     "ganache-cli": "^6.9.0",
